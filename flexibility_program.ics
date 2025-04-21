@@ -1,0 +1,681 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Flexibility App//Flexibility Calendar//EN
+BEGIN:VEVENT
+UID:flex-1@flexibility.app
+DTSTAMP:20250421T230000Z
+DTSTART:20250421T230000Z
+DTEND:20250421T232000Z
+SUMMARY:Flexibility: Lower Back
+DESCRIPTION:Gentle stretches targeting the lower back to alleviate tension and improve flexibility.\n\nYouTube Video: https://www.youtube.com/watch?v=ZmIYlXh1t1Q
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-2@flexibility.app
+DTSTAMP:20250422T230000Z
+DTSTART:20250422T230000Z
+DTEND:20250422T232000Z
+SUMMARY:Flexibility: Neck
+DESCRIPTION:Simple neck stretches to relieve stiffness and enhance mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=was4RtzpfJs
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-3@flexibility.app
+DTSTAMP:20250423T230000Z
+DTSTART:20250423T230000Z
+DTEND:20250423T232000Z
+SUMMARY:Flexibility: Hips
+DESCRIPTION:Beginner-friendly hip stretches to increase flexibility and reduce tightness.\n\nYouTube Video: https://www.youtube.com/watch?v=GIuiGVYr7ho
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-4@flexibility.app
+DTSTAMP:20250424T230000Z
+DTSTART:20250424T230000Z
+DTEND:20250424T232000Z
+SUMMARY:Flexibility: Shoulders
+DESCRIPTION:Exercises to improve shoulder mobility and reduce discomfort.\n\nYouTube Video: https://www.youtube.com/watch?v=TNU6umd0sNA
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-5@flexibility.app
+DTSTAMP:20250425T230000Z
+DTSTART:20250425T230000Z
+DTEND:20250425T232000Z
+SUMMARY:Flexibility: Ankles
+DESCRIPTION:Stretches aimed at enhancing ankle stability and mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=pcKu5C2C24c
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-6@flexibility.app
+DTSTAMP:20250426T230000Z
+DTSTART:20250426T230000Z
+DTEND:20250426T232000Z
+SUMMARY:Flexibility: Full Body
+DESCRIPTION:A comprehensive full-body stretch routine suitable for beginners.\n\nYouTube Video: https://www.youtube.com/watch?v=L_xrDAtykMI
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-8@flexibility.app
+DTSTAMP:20250428T230000Z
+DTSTART:20250428T230000Z
+DTEND:20250428T232000Z
+SUMMARY:Flexibility: Lower Back
+DESCRIPTION:Gentle stretches targeting the lower back to alleviate tension and improve flexibility.\n\nYouTube Video: https://www.youtube.com/watch?v=ZmIYlXh1t1Q
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-9@flexibility.app
+DTSTAMP:20250429T230000Z
+DTSTART:20250429T230000Z
+DTEND:20250429T232000Z
+SUMMARY:Flexibility: Neck
+DESCRIPTION:Simple neck stretches to relieve stiffness and enhance mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=was4RtzpfJs
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-10@flexibility.app
+DTSTAMP:20250430T230000Z
+DTSTART:20250430T230000Z
+DTEND:20250430T232000Z
+SUMMARY:Flexibility: Hips
+DESCRIPTION:Beginner-friendly hip stretches to increase flexibility and reduce tightness.\n\nYouTube Video: https://www.youtube.com/watch?v=GIuiGVYr7ho
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-11@flexibility.app
+DTSTAMP:20250501T230000Z
+DTSTART:20250501T230000Z
+DTEND:20250501T232000Z
+SUMMARY:Flexibility: Shoulders
+DESCRIPTION:Exercises to improve shoulder mobility and reduce discomfort.\n\nYouTube Video: https://www.youtube.com/watch?v=TNU6umd0sNA
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-12@flexibility.app
+DTSTAMP:20250502T230000Z
+DTSTART:20250502T230000Z
+DTEND:20250502T232000Z
+SUMMARY:Flexibility: Ankles
+DESCRIPTION:Stretches aimed at enhancing ankle stability and mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=pcKu5C2C24c
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-13@flexibility.app
+DTSTAMP:20250503T230000Z
+DTSTART:20250503T230000Z
+DTEND:20250503T232000Z
+SUMMARY:Flexibility: Full Body
+DESCRIPTION:A comprehensive full-body stretch routine suitable for beginners.\n\nYouTube Video: https://www.youtube.com/watch?v=L_xrDAtykMI
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-15@flexibility.app
+DTSTAMP:20250505T230000Z
+DTSTART:20250505T230000Z
+DTEND:20250505T232000Z
+SUMMARY:Flexibility: Lower Back
+DESCRIPTION:Gentle stretches targeting the lower back to alleviate tension and improve flexibility.\n\nYouTube Video: https://www.youtube.com/watch?v=ZmIYlXh1t1Q
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-16@flexibility.app
+DTSTAMP:20250506T230000Z
+DTSTART:20250506T230000Z
+DTEND:20250506T232000Z
+SUMMARY:Flexibility: Neck
+DESCRIPTION:Simple neck stretches to relieve stiffness and enhance mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=was4RtzpfJs
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-17@flexibility.app
+DTSTAMP:20250507T230000Z
+DTSTART:20250507T230000Z
+DTEND:20250507T232000Z
+SUMMARY:Flexibility: Hips
+DESCRIPTION:Beginner-friendly hip stretches to increase flexibility and reduce tightness.\n\nYouTube Video: https://www.youtube.com/watch?v=GIuiGVYr7ho
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-18@flexibility.app
+DTSTAMP:20250508T230000Z
+DTSTART:20250508T230000Z
+DTEND:20250508T232000Z
+SUMMARY:Flexibility: Shoulders
+DESCRIPTION:Exercises to improve shoulder mobility and reduce discomfort.\n\nYouTube Video: https://www.youtube.com/watch?v=TNU6umd0sNA
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-19@flexibility.app
+DTSTAMP:20250509T230000Z
+DTSTART:20250509T230000Z
+DTEND:20250509T232000Z
+SUMMARY:Flexibility: Ankles
+DESCRIPTION:Stretches aimed at enhancing ankle stability and mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=pcKu5C2C24c
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-20@flexibility.app
+DTSTAMP:20250510T230000Z
+DTSTART:20250510T230000Z
+DTEND:20250510T232000Z
+SUMMARY:Flexibility: Full Body
+DESCRIPTION:A comprehensive full-body stretch routine suitable for beginners.\n\nYouTube Video: https://www.youtube.com/watch?v=L_xrDAtykMI
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-22@flexibility.app
+DTSTAMP:20250512T230000Z
+DTSTART:20250512T230000Z
+DTEND:20250512T232000Z
+SUMMARY:Flexibility: Lower Back
+DESCRIPTION:Gentle stretches targeting the lower back to alleviate tension and improve flexibility.\n\nYouTube Video: https://www.youtube.com/watch?v=ZmIYlXh1t1Q
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-23@flexibility.app
+DTSTAMP:20250513T230000Z
+DTSTART:20250513T230000Z
+DTEND:20250513T232000Z
+SUMMARY:Flexibility: Neck
+DESCRIPTION:Simple neck stretches to relieve stiffness and enhance mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=was4RtzpfJs
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-24@flexibility.app
+DTSTAMP:20250514T230000Z
+DTSTART:20250514T230000Z
+DTEND:20250514T232000Z
+SUMMARY:Flexibility: Hips
+DESCRIPTION:Beginner-friendly hip stretches to increase flexibility and reduce tightness.\n\nYouTube Video: https://www.youtube.com/watch?v=GIuiGVYr7ho
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-25@flexibility.app
+DTSTAMP:20250515T230000Z
+DTSTART:20250515T230000Z
+DTEND:20250515T232000Z
+SUMMARY:Flexibility: Shoulders
+DESCRIPTION:Exercises to improve shoulder mobility and reduce discomfort.\n\nYouTube Video: https://www.youtube.com/watch?v=TNU6umd0sNA
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-26@flexibility.app
+DTSTAMP:20250516T230000Z
+DTSTART:20250516T230000Z
+DTEND:20250516T232000Z
+SUMMARY:Flexibility: Ankles
+DESCRIPTION:Stretches aimed at enhancing ankle stability and mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=pcKu5C2C24c
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-27@flexibility.app
+DTSTAMP:20250517T230000Z
+DTSTART:20250517T230000Z
+DTEND:20250517T232000Z
+SUMMARY:Flexibility: Full Body
+DESCRIPTION:A comprehensive full-body stretch routine suitable for beginners.\n\nYouTube Video: https://www.youtube.com/watch?v=L_xrDAtykMI
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-29@flexibility.app
+DTSTAMP:20250519T230000Z
+DTSTART:20250519T230000Z
+DTEND:20250519T232000Z
+SUMMARY:Flexibility: Lower Back
+DESCRIPTION:Gentle stretches targeting the lower back to alleviate tension and improve flexibility.\n\nYouTube Video: https://www.youtube.com/watch?v=ZmIYlXh1t1Q
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-30@flexibility.app
+DTSTAMP:20250520T230000Z
+DTSTART:20250520T230000Z
+DTEND:20250520T232000Z
+SUMMARY:Flexibility: Neck
+DESCRIPTION:Simple neck stretches to relieve stiffness and enhance mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=was4RtzpfJs
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-31@flexibility.app
+DTSTAMP:20250521T230000Z
+DTSTART:20250521T230000Z
+DTEND:20250521T232000Z
+SUMMARY:Flexibility: Hips
+DESCRIPTION:Beginner-friendly hip stretches to increase flexibility and reduce tightness.\n\nYouTube Video: https://www.youtube.com/watch?v=GIuiGVYr7ho
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-32@flexibility.app
+DTSTAMP:20250522T230000Z
+DTSTART:20250522T230000Z
+DTEND:20250522T232000Z
+SUMMARY:Flexibility: Shoulders
+DESCRIPTION:Exercises to improve shoulder mobility and reduce discomfort.\n\nYouTube Video: https://www.youtube.com/watch?v=TNU6umd0sNA
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-33@flexibility.app
+DTSTAMP:20250523T230000Z
+DTSTART:20250523T230000Z
+DTEND:20250523T232000Z
+SUMMARY:Flexibility: Ankles
+DESCRIPTION:Stretches aimed at enhancing ankle stability and mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=pcKu5C2C24c
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-34@flexibility.app
+DTSTAMP:20250524T230000Z
+DTSTART:20250524T230000Z
+DTEND:20250524T232000Z
+SUMMARY:Flexibility: Full Body
+DESCRIPTION:A comprehensive full-body stretch routine suitable for beginners.\n\nYouTube Video: https://www.youtube.com/watch?v=L_xrDAtykMI
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-36@flexibility.app
+DTSTAMP:20250526T230000Z
+DTSTART:20250526T230000Z
+DTEND:20250526T232000Z
+SUMMARY:Flexibility: Lower Back
+DESCRIPTION:Gentle stretches targeting the lower back to alleviate tension and improve flexibility.\n\nYouTube Video: https://www.youtube.com/watch?v=ZmIYlXh1t1Q
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-37@flexibility.app
+DTSTAMP:20250527T230000Z
+DTSTART:20250527T230000Z
+DTEND:20250527T232000Z
+SUMMARY:Flexibility: Neck
+DESCRIPTION:Simple neck stretches to relieve stiffness and enhance mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=was4RtzpfJs
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-38@flexibility.app
+DTSTAMP:20250528T230000Z
+DTSTART:20250528T230000Z
+DTEND:20250528T232000Z
+SUMMARY:Flexibility: Hips
+DESCRIPTION:Beginner-friendly hip stretches to increase flexibility and reduce tightness.\n\nYouTube Video: https://www.youtube.com/watch?v=GIuiGVYr7ho
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-39@flexibility.app
+DTSTAMP:20250529T230000Z
+DTSTART:20250529T230000Z
+DTEND:20250529T232000Z
+SUMMARY:Flexibility: Shoulders
+DESCRIPTION:Exercises to improve shoulder mobility and reduce discomfort.\n\nYouTube Video: https://www.youtube.com/watch?v=TNU6umd0sNA
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-40@flexibility.app
+DTSTAMP:20250530T230000Z
+DTSTART:20250530T230000Z
+DTEND:20250530T232000Z
+SUMMARY:Flexibility: Ankles
+DESCRIPTION:Stretches aimed at enhancing ankle stability and mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=pcKu5C2C24c
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-41@flexibility.app
+DTSTAMP:20250531T230000Z
+DTSTART:20250531T230000Z
+DTEND:20250531T232000Z
+SUMMARY:Flexibility: Full Body
+DESCRIPTION:A comprehensive full-body stretch routine suitable for beginners.\n\nYouTube Video: https://www.youtube.com/watch?v=L_xrDAtykMI
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-43@flexibility.app
+DTSTAMP:20250602T230000Z
+DTSTART:20250602T230000Z
+DTEND:20250602T232000Z
+SUMMARY:Flexibility: Lower Back
+DESCRIPTION:Gentle stretches targeting the lower back to alleviate tension and improve flexibility.\n\nYouTube Video: https://www.youtube.com/watch?v=ZmIYlXh1t1Q
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-44@flexibility.app
+DTSTAMP:20250603T230000Z
+DTSTART:20250603T230000Z
+DTEND:20250603T232000Z
+SUMMARY:Flexibility: Neck
+DESCRIPTION:Simple neck stretches to relieve stiffness and enhance mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=was4RtzpfJs
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-45@flexibility.app
+DTSTAMP:20250604T230000Z
+DTSTART:20250604T230000Z
+DTEND:20250604T232000Z
+SUMMARY:Flexibility: Hips
+DESCRIPTION:Beginner-friendly hip stretches to increase flexibility and reduce tightness.\n\nYouTube Video: https://www.youtube.com/watch?v=GIuiGVYr7ho
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-46@flexibility.app
+DTSTAMP:20250605T230000Z
+DTSTART:20250605T230000Z
+DTEND:20250605T232000Z
+SUMMARY:Flexibility: Shoulders
+DESCRIPTION:Exercises to improve shoulder mobility and reduce discomfort.\n\nYouTube Video: https://www.youtube.com/watch?v=TNU6umd0sNA
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-47@flexibility.app
+DTSTAMP:20250606T230000Z
+DTSTART:20250606T230000Z
+DTEND:20250606T232000Z
+SUMMARY:Flexibility: Ankles
+DESCRIPTION:Stretches aimed at enhancing ankle stability and mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=pcKu5C2C24c
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-48@flexibility.app
+DTSTAMP:20250607T230000Z
+DTSTART:20250607T230000Z
+DTEND:20250607T232000Z
+SUMMARY:Flexibility: Full Body
+DESCRIPTION:A comprehensive full-body stretch routine suitable for beginners.\n\nYouTube Video: https://www.youtube.com/watch?v=L_xrDAtykMI
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-50@flexibility.app
+DTSTAMP:20250609T230000Z
+DTSTART:20250609T230000Z
+DTEND:20250609T232000Z
+SUMMARY:Flexibility: Lower Back
+DESCRIPTION:Gentle stretches targeting the lower back to alleviate tension and improve flexibility.\n\nYouTube Video: https://www.youtube.com/watch?v=ZmIYlXh1t1Q
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-51@flexibility.app
+DTSTAMP:20250610T230000Z
+DTSTART:20250610T230000Z
+DTEND:20250610T232000Z
+SUMMARY:Flexibility: Neck
+DESCRIPTION:Simple neck stretches to relieve stiffness and enhance mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=was4RtzpfJs
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-52@flexibility.app
+DTSTAMP:20250611T230000Z
+DTSTART:20250611T230000Z
+DTEND:20250611T232000Z
+SUMMARY:Flexibility: Hips
+DESCRIPTION:Beginner-friendly hip stretches to increase flexibility and reduce tightness.\n\nYouTube Video: https://www.youtube.com/watch?v=GIuiGVYr7ho
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-53@flexibility.app
+DTSTAMP:20250612T230000Z
+DTSTART:20250612T230000Z
+DTEND:20250612T232000Z
+SUMMARY:Flexibility: Shoulders
+DESCRIPTION:Exercises to improve shoulder mobility and reduce discomfort.\n\nYouTube Video: https://www.youtube.com/watch?v=TNU6umd0sNA
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-54@flexibility.app
+DTSTAMP:20250613T230000Z
+DTSTART:20250613T230000Z
+DTEND:20250613T232000Z
+SUMMARY:Flexibility: Ankles
+DESCRIPTION:Stretches aimed at enhancing ankle stability and mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=pcKu5C2C24c
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-55@flexibility.app
+DTSTAMP:20250614T230000Z
+DTSTART:20250614T230000Z
+DTEND:20250614T232000Z
+SUMMARY:Flexibility: Full Body
+DESCRIPTION:A comprehensive full-body stretch routine suitable for beginners.\n\nYouTube Video: https://www.youtube.com/watch?v=L_xrDAtykMI
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-57@flexibility.app
+DTSTAMP:20250616T230000Z
+DTSTART:20250616T230000Z
+DTEND:20250616T232000Z
+SUMMARY:Flexibility: Lower Back
+DESCRIPTION:Gentle stretches targeting the lower back to alleviate tension and improve flexibility.\n\nYouTube Video: https://www.youtube.com/watch?v=ZmIYlXh1t1Q
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-58@flexibility.app
+DTSTAMP:20250617T230000Z
+DTSTART:20250617T230000Z
+DTEND:20250617T232000Z
+SUMMARY:Flexibility: Neck
+DESCRIPTION:Simple neck stretches to relieve stiffness and enhance mobility.\n\nYouTube Video: https://www.youtube.com/watch?v=was4RtzpfJs
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-59@flexibility.app
+DTSTAMP:20250618T230000Z
+DTSTART:20250618T230000Z
+DTEND:20250618T232000Z
+SUMMARY:Flexibility: Hips
+DESCRIPTION:Beginner-friendly hip stretches to increase flexibility and reduce tightness.\n\nYouTube Video: https://www.youtube.com/watch?v=GIuiGVYr7ho
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flex-60@flexibility.app
+DTSTAMP:20250619T230000Z
+DTSTART:20250619T230000Z
+DTEND:20250619T232000Z
+SUMMARY:Flexibility: Shoulders
+DESCRIPTION:Exercises to improve shoulder mobility and reduce discomfort.\n\nYouTube Video: https://www.youtube.com/watch?v=TNU6umd0sNA
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
