@@ -6,419 +6,629 @@ SUMMARY:Trivia: Earth Day
 DTSTART;VALUE=DATE:20250422
 DTEND;VALUE=DATE:20250423
 DESCRIPTION:Celebrated globally since 1970 to promote environmental protection. (https://en.wikipedia.org/wiki/Earth_Day)
+
+Additional Trivia:
+Botanically, bananas are classified as berries. (https://en.wikipedia.org/wiki/Banana)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: William Shakespeare
 DTSTART;VALUE=DATE:20250423
 DTEND;VALUE=DATE:20250424
 DESCRIPTION:Born and died on April 23; considered one of the greatest playwrights of all time. (https://en.wikipedia.org/wiki/William_Shakespeare)
+
+Additional Trivia:
+Two pump blood to the gills, one to the body. (https://en.wikipedia.org/wiki/Octopus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Easter Rising
 DTSTART;VALUE=DATE:20250424
 DTEND;VALUE=DATE:20250425
 DESCRIPTION:Armed insurrection in 1916 against British rule in Ireland. (https://en.wikipedia.org/wiki/Easter_Rising)
+
+Additional Trivia:
+Wombats produce cube-shaped feces. (https://en.wikipedia.org/wiki/Wombat)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: ANZAC Day
 DTSTART;VALUE=DATE:20250425
 DTEND;VALUE=DATE:20250426
 DESCRIPTION:Honors Australian and New Zealand soldiers who fought at Gallipoli in WWI. (https://en.wikipedia.org/wiki/Anzac_Day)
+
+Additional Trivia:
+Metal expands in heat. (https://en.wikipedia.org/wiki/Eiffel_Tower)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Chernobyl Disaster
 DTSTART;VALUE=DATE:20250426
 DTEND;VALUE=DATE:20250427
 DESCRIPTION:Nuclear disaster in Ukraine in 1986, the worst in history. (https://en.wikipedia.org/wiki/Chernobyl_disaster)
+
+Additional Trivia:
+Sharks are over 400 million years old. (https://en.wikipedia.org/wiki/Shark)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Freedom Day (South Africa)
 DTSTART;VALUE=DATE:20250427
 DTEND;VALUE=DATE:20250428
 DESCRIPTION:Commemorates the first democratic elections in South Africa in 1994. (https://en.wikipedia.org/wiki/Freedom_Day_(South_Africa))
+
+Additional Trivia:
+The collective noun is flamboyance. (https://en.wikipedia.org/wiki/Flamingo)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Mutiny on the Bounty
 DTSTART;VALUE=DATE:20250428
 DTEND;VALUE=DATE:20250429
 DESCRIPTION:Famous naval mutiny took place in 1789 on this date. (https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty)
+
+Additional Trivia:
+Archaeologists found edible honey in ancient Egyptian tombs. (https://en.wikipedia.org/wiki/Honey)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Los Angeles Riots (1992)
 DTSTART;VALUE=DATE:20250429
 DTEND;VALUE=DATE:20250430
 DESCRIPTION:Riots erupted after police officers were acquitted in the Rodney King beating case. (https://en.wikipedia.org/wiki/1992_Los_Angeles_riots)
+
+Additional Trivia:
+Nicknamed 'the highest court in the land.' (https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Fall of Saigon
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 DESCRIPTION:Marked the end of the Vietnam War in 1975 as North Vietnamese forces captured the city. (https://en.wikipedia.org/wiki/Fall_of_Saigon)
+
+Additional Trivia:
+Chosen for its association with purity and innocence. (https://en.wikipedia.org/wiki/Unicorn)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: International Workers' Day
 DTSTART;VALUE=DATE:20250501
 DTEND;VALUE=DATE:20250502
-DESCRIPTION:Also known as Labour Day; commemorates the labor movement and the Haymarket affair. (https://en.wikipedia.org/wiki/International_Workers%27_Day)
+DESCRIPTION:Interesting fact about International Workers' Day. (https://en.wikipedia.org/wiki/International_Workers'_Day)
+
+Additional Trivia:
+Venus rotates slower than it orbits the Sun. (https://en.wikipedia.org/wiki/Venus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Battle of Tannenberg Line
 DTSTART;VALUE=DATE:20250502
 DTEND;VALUE=DATE:20250503
-DESCRIPTION:A major WWII battle in Estonia where German and Estonian forces resisted the Soviet advance. (https://en.wikipedia.org/wiki/Battle_of_Tannenberg_Line)
+DESCRIPTION:Interesting fact about Battle of Tannenberg Line. (https://en.wikipedia.org/wiki/Battle_of_Tannenberg_Line)
+
+Additional Trivia:
+Botanically, bananas are classified as berries. (https://en.wikipedia.org/wiki/Banana)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: World Press Freedom Day
 DTSTART;VALUE=DATE:20250503
 DTEND;VALUE=DATE:20250504
-DESCRIPTION:Declared by the UN to raise awareness about the importance of freedom of the press. (https://en.wikipedia.org/wiki/World_Press_Freedom_Day)
+DESCRIPTION:Interesting fact about World Press Freedom Day. (https://en.wikipedia.org/wiki/World_Press_Freedom_Day)
+
+Additional Trivia:
+Two pump blood to the gills, one to the body. (https://en.wikipedia.org/wiki/Octopus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Star Wars Day
 DTSTART;VALUE=DATE:20250504
 DTEND;VALUE=DATE:20250505
-DESCRIPTION:Celebrated with the pun 'May the Fourth be with you', referencing Star Wars. (https://en.wikipedia.org/wiki/Star_Wars_Day)
+DESCRIPTION:Interesting fact about Star Wars Day. (https://en.wikipedia.org/wiki/Star_Wars_Day)
+
+Additional Trivia:
+Wombats produce cube-shaped feces. (https://en.wikipedia.org/wiki/Wombat)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Cinco de Mayo
 DTSTART;VALUE=DATE:20250505
 DTEND;VALUE=DATE:20250506
-DESCRIPTION:Commemorates the Mexican army's victory over the French Empire at the Battle of Puebla. (https://en.wikipedia.org/wiki/Cinco_de_Mayo)
+DESCRIPTION:Interesting fact about Cinco de Mayo. (https://en.wikipedia.org/wiki/Cinco_de_Mayo)
+
+Additional Trivia:
+Metal expands in heat. (https://en.wikipedia.org/wiki/Eiffel_Tower)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Hindenburg disaster
 DTSTART;VALUE=DATE:20250506
 DTEND;VALUE=DATE:20250507
-DESCRIPTION:In 1937, the German passenger airship LZ 129 Hindenburg caught fire and was destroyed. (https://en.wikipedia.org/wiki/Hindenburg_disaster)
+DESCRIPTION:Interesting fact about Hindenburg disaster. (https://en.wikipedia.org/wiki/Hindenburg_disaster)
+
+Additional Trivia:
+Sharks are over 400 million years old. (https://en.wikipedia.org/wiki/Shark)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Battle of Dien Bien Phu
 DTSTART;VALUE=DATE:20250507
 DTEND;VALUE=DATE:20250508
-DESCRIPTION:The decisive engagement that led to the end of French colonial rule in Indochina. (https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu)
+DESCRIPTION:Interesting fact about Battle of Dien Bien Phu. (https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu)
+
+Additional Trivia:
+The collective noun is flamboyance. (https://en.wikipedia.org/wiki/Flamingo)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Victory in Europe Day
 DTSTART;VALUE=DATE:20250508
 DTEND;VALUE=DATE:20250509
-DESCRIPTION:Marks the formal acceptance of Nazi Germany's unconditional surrender in WWII. (https://en.wikipedia.org/wiki/Victory_in_Europe_Day)
+DESCRIPTION:Interesting fact about Victory in Europe Day. (https://en.wikipedia.org/wiki/Victory_in_Europe_Day)
+
+Additional Trivia:
+Archaeologists found edible honey in ancient Egyptian tombs. (https://en.wikipedia.org/wiki/Honey)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Schuman Declaration
 DTSTART;VALUE=DATE:20250509
 DTEND;VALUE=DATE:20250510
-DESCRIPTION:Laid the foundation for the European Coal and Steel Community, precursor to the EU. (https://en.wikipedia.org/wiki/Schuman_Declaration)
+DESCRIPTION:Interesting fact about Schuman Declaration. (https://en.wikipedia.org/wiki/Schuman_Declaration)
+
+Additional Trivia:
+Nicknamed 'the highest court in the land.' (https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Transcontinental Railroad Completed
 DTSTART;VALUE=DATE:20250510
 DTEND;VALUE=DATE:20250511
-DESCRIPTION:In 1869, the 'Golden Spike' ceremony completed the first U.S. transcontinental railroad. (https://en.wikipedia.org/wiki/First_transcontinental_railroad)
+DESCRIPTION:Interesting fact about Transcontinental Railroad Completed. (https://en.wikipedia.org/wiki/Transcontinental_Railroad_Completed)
+
+Additional Trivia:
+Chosen for its association with purity and innocence. (https://en.wikipedia.org/wiki/Unicorn)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Deep Blue vs Garry Kasparov
 DTSTART;VALUE=DATE:20250511
 DTEND;VALUE=DATE:20250512
-DESCRIPTION:In 1997, IBM's Deep Blue defeated world chess champion Garry Kasparov. (https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer))
+DESCRIPTION:Interesting fact about Deep Blue vs Garry Kasparov. (https://en.wikipedia.org/wiki/Deep_Blue_vs_Garry_Kasparov)
+
+Additional Trivia:
+Venus rotates slower than it orbits the Sun. (https://en.wikipedia.org/wiki/Venus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Florence Nightingale
 DTSTART;VALUE=DATE:20250512
 DTEND;VALUE=DATE:20250513
-DESCRIPTION:Born this day in 1820, she laid the foundation of modern nursing. (https://en.wikipedia.org/wiki/Florence_Nightingale)
+DESCRIPTION:Interesting fact about Florence Nightingale. (https://en.wikipedia.org/wiki/Florence_Nightingale)
+
+Additional Trivia:
+Botanically, bananas are classified as berries. (https://en.wikipedia.org/wiki/Banana)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Fatima Apparitions
 DTSTART;VALUE=DATE:20250513
 DTEND;VALUE=DATE:20250514
-DESCRIPTION:First of six apparitions of the Virgin Mary to three shepherd children in 1917. (https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima)
+DESCRIPTION:Interesting fact about Fatima Apparitions. (https://en.wikipedia.org/wiki/Fatima_Apparitions)
+
+Additional Trivia:
+Two pump blood to the gills, one to the body. (https://en.wikipedia.org/wiki/Octopus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Skylab Launch
 DTSTART;VALUE=DATE:20250514
 DTEND;VALUE=DATE:20250515
-DESCRIPTION:In 1973, NASA launched Skylab, the first U.S. space station. (https://en.wikipedia.org/wiki/Skylab)
+DESCRIPTION:Interesting fact about Skylab Launch. (https://en.wikipedia.org/wiki/Skylab_Launch)
+
+Additional Trivia:
+Wombats produce cube-shaped feces. (https://en.wikipedia.org/wiki/Wombat)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: McDonald's Incorporation
 DTSTART;VALUE=DATE:20250515
 DTEND;VALUE=DATE:20250516
-DESCRIPTION:In 1940, the first McDonald's restaurant opened. (https://en.wikipedia.org/wiki/McDonald%27s)
+DESCRIPTION:Interesting fact about McDonald's Incorporation. (https://en.wikipedia.org/wiki/McDonald's_Incorporation)
+
+Additional Trivia:
+Metal expands in heat. (https://en.wikipedia.org/wiki/Eiffel_Tower)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Marie Antoinette Marries Louis XVI
 DTSTART;VALUE=DATE:20250516
 DTEND;VALUE=DATE:20250517
-DESCRIPTION:They married in 1770, sparking events that led to the French Revolution. (https://en.wikipedia.org/wiki/Marie_Antoinette)
+DESCRIPTION:Interesting fact about Marie Antoinette Marries Louis XVI. (https://en.wikipedia.org/wiki/Marie_Antoinette_Marries_Louis_XVI)
+
+Additional Trivia:
+Sharks are over 400 million years old. (https://en.wikipedia.org/wiki/Shark)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: World Information Society Day
 DTSTART;VALUE=DATE:20250517
 DTEND;VALUE=DATE:20250518
-DESCRIPTION:Promotes awareness of communication and information technologies. (https://en.wikipedia.org/wiki/World_Information_Society_Day)
+DESCRIPTION:Interesting fact about World Information Society Day. (https://en.wikipedia.org/wiki/World_Information_Society_Day)
+
+Additional Trivia:
+The collective noun is flamboyance. (https://en.wikipedia.org/wiki/Flamingo)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Mount St. Helens Eruption
 DTSTART;VALUE=DATE:20250518
 DTEND;VALUE=DATE:20250519
-DESCRIPTION:Major volcanic eruption occurred in 1980 in Washington, USA. (https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens)
+DESCRIPTION:Interesting fact about Mount St. Helens Eruption. (https://en.wikipedia.org/wiki/Mount_St._Helens_Eruption)
+
+Additional Trivia:
+Archaeologists found edible honey in ancient Egyptian tombs. (https://en.wikipedia.org/wiki/Honey)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Ho Chi Minh Birthday
 DTSTART;VALUE=DATE:20250519
 DTEND;VALUE=DATE:20250520
-DESCRIPTION:Vietnamese revolutionary leader born on this day in 1890. (https://en.wikipedia.org/wiki/Ho_Chi_Minh)
+DESCRIPTION:Interesting fact about Ho Chi Minh Birthday. (https://en.wikipedia.org/wiki/Ho_Chi_Minh_Birthday)
+
+Additional Trivia:
+Nicknamed 'the highest court in the land.' (https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Amelia Earhart Solo Flight
 DTSTART;VALUE=DATE:20250520
 DTEND;VALUE=DATE:20250521
-DESCRIPTION:First woman to fly solo across the Atlantic in 1932. (https://en.wikipedia.org/wiki/Amelia_Earhart)
+DESCRIPTION:Interesting fact about Amelia Earhart Solo Flight. (https://en.wikipedia.org/wiki/Amelia_Earhart_Solo_Flight)
+
+Additional Trivia:
+Chosen for its association with purity and innocence. (https://en.wikipedia.org/wiki/Unicorn)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: American Red Cross Founded
 DTSTART;VALUE=DATE:20250521
 DTEND;VALUE=DATE:20250522
-DESCRIPTION:Clara Barton founded the organization in 1881. (https://en.wikipedia.org/wiki/American_Red_Cross)
+DESCRIPTION:Interesting fact about American Red Cross Founded. (https://en.wikipedia.org/wiki/American_Red_Cross_Founded)
+
+Additional Trivia:
+Venus rotates slower than it orbits the Sun. (https://en.wikipedia.org/wiki/Venus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Pac-Man Released
 DTSTART;VALUE=DATE:20250522
 DTEND;VALUE=DATE:20250523
-DESCRIPTION:One of the most iconic arcade games, released in 1980. (https://en.wikipedia.org/wiki/Pac-Man)
+DESCRIPTION:Interesting fact about Pac-Man Released. (https://en.wikipedia.org/wiki/Pac-Man_Released)
+
+Additional Trivia:
+Botanically, bananas are classified as berries. (https://en.wikipedia.org/wiki/Banana)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Declaration of the Báb
 DTSTART;VALUE=DATE:20250523
 DTEND;VALUE=DATE:20250524
-DESCRIPTION:Marks the start of the Bahá'í calendar. (https://en.wikipedia.org/wiki/Declaration_of_the_B%C3%A1b)
+DESCRIPTION:Interesting fact about Declaration of the Báb. (https://en.wikipedia.org/wiki/Declaration_of_the_Báb)
+
+Additional Trivia:
+Two pump blood to the gills, one to the body. (https://en.wikipedia.org/wiki/Octopus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Brooklyn Bridge Opens
 DTSTART;VALUE=DATE:20250524
 DTEND;VALUE=DATE:20250525
-DESCRIPTION:Opened in 1883 as one of the oldest suspension bridges. (https://en.wikipedia.org/wiki/Brooklyn_Bridge)
+DESCRIPTION:Interesting fact about Brooklyn Bridge Opens. (https://en.wikipedia.org/wiki/Brooklyn_Bridge_Opens)
+
+Additional Trivia:
+Wombats produce cube-shaped feces. (https://en.wikipedia.org/wiki/Wombat)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Africa Day
 DTSTART;VALUE=DATE:20250525
 DTEND;VALUE=DATE:20250526
-DESCRIPTION:Commemorates the founding of the Organization of African Unity in 1963. (https://en.wikipedia.org/wiki/Africa_Day)
+DESCRIPTION:Interesting fact about Africa Day. (https://en.wikipedia.org/wiki/Africa_Day)
+
+Additional Trivia:
+Metal expands in heat. (https://en.wikipedia.org/wiki/Eiffel_Tower)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: First National Sorry Day
 DTSTART;VALUE=DATE:20250526
 DTEND;VALUE=DATE:20250527
-DESCRIPTION:Australia recognizes injustices toward Aboriginal people. (https://en.wikipedia.org/wiki/National_Sorry_Day)
+DESCRIPTION:Interesting fact about First National Sorry Day. (https://en.wikipedia.org/wiki/First_National_Sorry_Day)
+
+Additional Trivia:
+Sharks are over 400 million years old. (https://en.wikipedia.org/wiki/Shark)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Golden Gate Bridge Opens
 DTSTART;VALUE=DATE:20250527
 DTEND;VALUE=DATE:20250528
-DESCRIPTION:Opened to pedestrian traffic in 1937. (https://en.wikipedia.org/wiki/Golden_Gate_Bridge)
+DESCRIPTION:Interesting fact about Golden Gate Bridge Opens. (https://en.wikipedia.org/wiki/Golden_Gate_Bridge_Opens)
+
+Additional Trivia:
+The collective noun is flamboyance. (https://en.wikipedia.org/wiki/Flamingo)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Amnesty International Founded
 DTSTART;VALUE=DATE:20250528
 DTEND;VALUE=DATE:20250529
-DESCRIPTION:Human rights organization founded in 1961. (https://en.wikipedia.org/wiki/Amnesty_International)
+DESCRIPTION:Interesting fact about Amnesty International Founded. (https://en.wikipedia.org/wiki/Amnesty_International_Founded)
+
+Additional Trivia:
+Archaeologists found edible honey in ancient Egyptian tombs. (https://en.wikipedia.org/wiki/Honey)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trivia: Edmund Hillary and Tenzing Norgay Summit Everest
+SUMMARY:Trivia: Summit of Everest
 DTSTART;VALUE=DATE:20250529
 DTEND;VALUE=DATE:20250530
-DESCRIPTION:First confirmed ascent of Mount Everest in 1953. (https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition)
+DESCRIPTION:Interesting fact about Summit of Everest. (https://en.wikipedia.org/wiki/Summit_of_Everest)
+
+Additional Trivia:
+Nicknamed 'the highest court in the land.' (https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Joan of Arc Executed
 DTSTART;VALUE=DATE:20250530
 DTEND;VALUE=DATE:20250531
-DESCRIPTION:Burned at the stake in 1431. (https://en.wikipedia.org/wiki/Joan_of_Arc)
+DESCRIPTION:Interesting fact about Joan of Arc Executed. (https://en.wikipedia.org/wiki/Joan_of_Arc_Executed)
+
+Additional Trivia:
+Chosen for its association with purity and innocence. (https://en.wikipedia.org/wiki/Unicorn)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trivia: Big Ben Chimes for First Time
+SUMMARY:Trivia: Big Ben Chimes
 DTSTART;VALUE=DATE:20250531
 DTEND;VALUE=DATE:20250601
-DESCRIPTION:The iconic bell in London began operation in 1859. (https://en.wikipedia.org/wiki/Big_Ben)
+DESCRIPTION:Interesting fact about Big Ben Chimes. (https://en.wikipedia.org/wiki/Big_Ben_Chimes)
+
+Additional Trivia:
+Venus rotates slower than it orbits the Sun. (https://en.wikipedia.org/wiki/Venus)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trivia: CNN Launches
+SUMMARY:Trivia: CNN Launch
 DTSTART;VALUE=DATE:20250601
 DTEND;VALUE=DATE:20250602
-DESCRIPTION:The first 24-hour news channel launched in 1980. (https://en.wikipedia.org/wiki/CNN)
+DESCRIPTION:Interesting fact about CNN Launch. (https://en.wikipedia.org/wiki/CNN_Launch)
+
+Additional Trivia:
+Botanically, bananas are classified as berries. (https://en.wikipedia.org/wiki/Banana)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Queen Elizabeth II Coronation
 DTSTART;VALUE=DATE:20250602
 DTEND;VALUE=DATE:20250603
-DESCRIPTION:Took place in 1953 at Westminster Abbey. (https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_II)
+DESCRIPTION:Interesting fact about Queen Elizabeth II Coronation. (https://en.wikipedia.org/wiki/Queen_Elizabeth_II_Coronation)
+
+Additional Trivia:
+Two pump blood to the gills, one to the body. (https://en.wikipedia.org/wiki/Octopus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Gemini 4 Spacewalk
 DTSTART;VALUE=DATE:20250603
 DTEND;VALUE=DATE:20250604
-DESCRIPTION:First American spacewalk by Ed White in 1965. (https://en.wikipedia.org/wiki/Gemini_4)
+DESCRIPTION:Interesting fact about Gemini 4 Spacewalk. (https://en.wikipedia.org/wiki/Gemini_4_Spacewalk)
+
+Additional Trivia:
+Wombats produce cube-shaped feces. (https://en.wikipedia.org/wiki/Wombat)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Tiananmen Square Protests
 DTSTART;VALUE=DATE:20250604
 DTEND;VALUE=DATE:20250605
-DESCRIPTION:Chinese troops fired on pro-democracy protesters in 1989. (https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)
+DESCRIPTION:Interesting fact about Tiananmen Square Protests. (https://en.wikipedia.org/wiki/Tiananmen_Square_Protests)
+
+Additional Trivia:
+Metal expands in heat. (https://en.wikipedia.org/wiki/Eiffel_Tower)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: World Environment Day
 DTSTART;VALUE=DATE:20250605
 DTEND;VALUE=DATE:20250606
-DESCRIPTION:United Nations initiative for environmental awareness. (https://en.wikipedia.org/wiki/World_Environment_Day)
+DESCRIPTION:Interesting fact about World Environment Day. (https://en.wikipedia.org/wiki/World_Environment_Day)
+
+Additional Trivia:
+Sharks are over 400 million years old. (https://en.wikipedia.org/wiki/Shark)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: D-Day
 DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250607
-DESCRIPTION:Allied invasion of Normandy in 1944 during WWII. (https://en.wikipedia.org/wiki/Normandy_landings)
+DESCRIPTION:Interesting fact about D-Day. (https://en.wikipedia.org/wiki/D-Day)
+
+Additional Trivia:
+The collective noun is flamboyance. (https://en.wikipedia.org/wiki/Flamingo)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Sony Walkman Released
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250608
-DESCRIPTION:Revolutionized personal audio in 1979. (https://en.wikipedia.org/wiki/Walkman)
+DESCRIPTION:Interesting fact about Sony Walkman Released. (https://en.wikipedia.org/wiki/Sony_Walkman_Released)
+
+Additional Trivia:
+Archaeologists found edible honey in ancient Egyptian tombs. (https://en.wikipedia.org/wiki/Honey)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: George Orwell's Birthday
 DTSTART;VALUE=DATE:20250608
 DTEND;VALUE=DATE:20250609
-DESCRIPTION:Born in 1903, author of '1984' and 'Animal Farm'. (https://en.wikipedia.org/wiki/George_Orwell)
+DESCRIPTION:Interesting fact about George Orwell's Birthday. (https://en.wikipedia.org/wiki/George_Orwell's_Birthday)
+
+Additional Trivia:
+Nicknamed 'the highest court in the land.' (https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Donald Duck's Debut
 DTSTART;VALUE=DATE:20250609
 DTEND;VALUE=DATE:20250610
-DESCRIPTION:First appeared in 1934. (https://en.wikipedia.org/wiki/Donald_Duck)
+DESCRIPTION:Interesting fact about Donald Duck's Debut. (https://en.wikipedia.org/wiki/Donald_Duck's_Debut)
+
+Additional Trivia:
+Chosen for its association with purity and innocence. (https://en.wikipedia.org/wiki/Unicorn)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Alcoholics Anonymous Founded
 DTSTART;VALUE=DATE:20250610
 DTEND;VALUE=DATE:20250611
-DESCRIPTION:Established in 1935. (https://en.wikipedia.org/wiki/Alcoholics_Anonymous)
+DESCRIPTION:Interesting fact about Alcoholics Anonymous Founded. (https://en.wikipedia.org/wiki/Alcoholics_Anonymous_Founded)
+
+Additional Trivia:
+Venus rotates slower than it orbits the Sun. (https://en.wikipedia.org/wiki/Venus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Jurassic Park Released
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
-DESCRIPTION:The film debuted in 1993, sparking a franchise. (https://en.wikipedia.org/wiki/Jurassic_Park_(film))
+DESCRIPTION:Interesting fact about Jurassic Park Released. (https://en.wikipedia.org/wiki/Jurassic_Park_Released)
+
+Additional Trivia:
+Botanically, bananas are classified as berries. (https://en.wikipedia.org/wiki/Banana)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trivia: Reagan’s 'Tear Down This Wall' Speech
+SUMMARY:Trivia: Tear Down This Wall Speech
 DTSTART;VALUE=DATE:20250612
 DTEND;VALUE=DATE:20250613
-DESCRIPTION:Speech delivered in 1987 near the Berlin Wall. (https://en.wikipedia.org/wiki/Tear_down_this_wall!)
+DESCRIPTION:Interesting fact about Tear Down This Wall Speech. (https://en.wikipedia.org/wiki/Tear_Down_This_Wall_Speech)
+
+Additional Trivia:
+Two pump blood to the gills, one to the body. (https://en.wikipedia.org/wiki/Octopus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Pioneer 10 Leaves Solar System
 DTSTART;VALUE=DATE:20250613
 DTEND;VALUE=DATE:20250614
-DESCRIPTION:First spacecraft to travel through the asteroid belt. (https://en.wikipedia.org/wiki/Pioneer_10)
+DESCRIPTION:Interesting fact about Pioneer 10 Leaves Solar System. (https://en.wikipedia.org/wiki/Pioneer_10_Leaves_Solar_System)
+
+Additional Trivia:
+Wombats produce cube-shaped feces. (https://en.wikipedia.org/wiki/Wombat)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Flag Day (USA)
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250615
-DESCRIPTION:Commemorates the adoption of the U.S. flag. (https://en.wikipedia.org/wiki/Flag_Day_(United_States))
+DESCRIPTION:Interesting fact about Flag Day (USA). (https://en.wikipedia.org/wiki/Flag_Day_(USA))
+
+Additional Trivia:
+Metal expands in heat. (https://en.wikipedia.org/wiki/Eiffel_Tower)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Magna Carta Signed
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DESCRIPTION:Signed by King John in 1215, foundation of modern liberty. (https://en.wikipedia.org/wiki/Magna_Carta)
+DESCRIPTION:Interesting fact about Magna Carta Signed. (https://en.wikipedia.org/wiki/Magna_Carta_Signed)
+
+Additional Trivia:
+Sharks are over 400 million years old. (https://en.wikipedia.org/wiki/Shark)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Soweto Uprising
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
-DESCRIPTION:Student protests in apartheid South Africa in 1976. (https://en.wikipedia.org/wiki/Soweto_uprising)
+DESCRIPTION:Interesting fact about Soweto Uprising. (https://en.wikipedia.org/wiki/Soweto_Uprising)
+
+Additional Trivia:
+The collective noun is flamboyance. (https://en.wikipedia.org/wiki/Flamingo)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Watergate Break-in
 DTSTART;VALUE=DATE:20250617
 DTEND;VALUE=DATE:20250618
-DESCRIPTION:Burglary that eventually led to Nixon’s resignation. (https://en.wikipedia.org/wiki/Watergate_scandal)
+DESCRIPTION:Interesting fact about Watergate Break-in. (https://en.wikipedia.org/wiki/Watergate_Break-in)
+
+Additional Trivia:
+Archaeologists found edible honey in ancient Egyptian tombs. (https://en.wikipedia.org/wiki/Honey)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trivia: Sally Ride Flies into Space
+SUMMARY:Trivia: Sally Ride in Space
 DTSTART;VALUE=DATE:20250618
 DTEND;VALUE=DATE:20250619
-DESCRIPTION:First American woman in space in 1983. (https://en.wikipedia.org/wiki/Sally_Ride)
+DESCRIPTION:Interesting fact about Sally Ride in Space. (https://en.wikipedia.org/wiki/Sally_Ride_in_Space)
+
+Additional Trivia:
+Nicknamed 'the highest court in the land.' (https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Juneteenth
 DTSTART;VALUE=DATE:20250619
 DTEND;VALUE=DATE:20250620
-DESCRIPTION:Marks the emancipation of slaves in Texas in 1865. (https://en.wikipedia.org/wiki/Juneteenth)
+DESCRIPTION:Interesting fact about Juneteenth. (https://en.wikipedia.org/wiki/Juneteenth)
+
+Additional Trivia:
+Chosen for its association with purity and innocence. (https://en.wikipedia.org/wiki/Unicorn)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: World Refugee Day
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
-DESCRIPTION:Raises awareness of refugee situations worldwide. (https://en.wikipedia.org/wiki/World_Refugee_Day)
+DESCRIPTION:Interesting fact about World Refugee Day. (https://en.wikipedia.org/wiki/World_Refugee_Day)
+
+Additional Trivia:
+Venus rotates slower than it orbits the Sun. (https://en.wikipedia.org/wiki/Venus)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trivia: Longest Day of the Year
+SUMMARY:Trivia: Summer Solstice
 DTSTART;VALUE=DATE:20250621
 DTEND;VALUE=DATE:20250622
-DESCRIPTION:Northern Hemisphere's summer solstice. (https://en.wikipedia.org/wiki/Summer_solstice)
+DESCRIPTION:Interesting fact about Summer Solstice. (https://en.wikipedia.org/wiki/Summer_Solstice)
+
+Additional Trivia:
+Botanically, bananas are classified as berries. (https://en.wikipedia.org/wiki/Banana)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Operation Barbarossa
 DTSTART;VALUE=DATE:20250622
 DTEND;VALUE=DATE:20250623
-DESCRIPTION:Nazi Germany invaded the Soviet Union in 1941. (https://en.wikipedia.org/wiki/Operation_Barbarossa)
+DESCRIPTION:Interesting fact about Operation Barbarossa. (https://en.wikipedia.org/wiki/Operation_Barbarossa)
+
+Additional Trivia:
+Two pump blood to the gills, one to the body. (https://en.wikipedia.org/wiki/Octopus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Title IX Signed
 DTSTART;VALUE=DATE:20250623
 DTEND;VALUE=DATE:20250624
-DESCRIPTION:Major U.S. law prohibiting gender discrimination in education. (https://en.wikipedia.org/wiki/Title_IX)
+DESCRIPTION:Interesting fact about Title IX Signed. (https://en.wikipedia.org/wiki/Title_IX_Signed)
+
+Additional Trivia:
+Wombats produce cube-shaped feces. (https://en.wikipedia.org/wiki/Wombat)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trivia: Roswell Incident Begins
+SUMMARY:Trivia: Roswell Incident
 DTSTART;VALUE=DATE:20250624
 DTEND;VALUE=DATE:20250625
-DESCRIPTION:Alleged UFO crash in 1947. (https://en.wikipedia.org/wiki/Roswell_UFO_incident)
+DESCRIPTION:Interesting fact about Roswell Incident. (https://en.wikipedia.org/wiki/Roswell_Incident)
+
+Additional Trivia:
+Metal expands in heat. (https://en.wikipedia.org/wiki/Eiffel_Tower)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Korean War Begins
 DTSTART;VALUE=DATE:20250625
 DTEND;VALUE=DATE:20250626
-DESCRIPTION:North Korea invaded South Korea in 1950. (https://en.wikipedia.org/wiki/Korean_War)
+DESCRIPTION:Interesting fact about Korean War Begins. (https://en.wikipedia.org/wiki/Korean_War_Begins)
+
+Additional Trivia:
+Sharks are over 400 million years old. (https://en.wikipedia.org/wiki/Shark)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: UN Charter Signed
 DTSTART;VALUE=DATE:20250626
 DTEND;VALUE=DATE:20250627
-DESCRIPTION:Signed in San Francisco in 1945. (https://en.wikipedia.org/wiki/Charter_of_the_United_Nations)
+DESCRIPTION:Interesting fact about UN Charter Signed. (https://en.wikipedia.org/wiki/UN_Charter_Signed)
+
+Additional Trivia:
+The collective noun is flamboyance. (https://en.wikipedia.org/wiki/Flamingo)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: ATM Introduced
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250628
-DESCRIPTION:The first ATM was installed in London in 1967. (https://en.wikipedia.org/wiki/Automated_teller_machine)
+DESCRIPTION:Interesting fact about ATM Introduced. (https://en.wikipedia.org/wiki/ATM_Introduced)
+
+Additional Trivia:
+Archaeologists found edible honey in ancient Egyptian tombs. (https://en.wikipedia.org/wiki/Honey)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trivia: Assassination of Archduke Franz Ferdinand
+SUMMARY:Trivia: Assassination of Archduke Ferdinand
 DTSTART;VALUE=DATE:20250628
 DTEND;VALUE=DATE:20250629
-DESCRIPTION:Sparked World War I in 1914. (https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand)
+DESCRIPTION:Interesting fact about Assassination of Archduke Ferdinand. (https://en.wikipedia.org/wiki/Assassination_of_Archduke_Ferdinand)
+
+Additional Trivia:
+Nicknamed 'the highest court in the land.' (https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trivia: iPhone Released
+SUMMARY:Trivia: iPhone Release
 DTSTART;VALUE=DATE:20250629
 DTEND;VALUE=DATE:20250630
-DESCRIPTION:Apple’s first iPhone was released in 2007. (https://en.wikipedia.org/wiki/IPhone_(1st_generation))
+DESCRIPTION:Interesting fact about iPhone Release. (https://en.wikipedia.org/wiki/iPhone_Release)
+
+Additional Trivia:
+Chosen for its association with purity and innocence. (https://en.wikipedia.org/wiki/Unicorn)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia: Tunguska Event
 DTSTART;VALUE=DATE:20250630
 DTEND;VALUE=DATE:20250701
-DESCRIPTION:Massive explosion in Siberia in 1908 likely caused by a meteor. (https://en.wikipedia.org/wiki/Tunguska_event)
+DESCRIPTION:Interesting fact about Tunguska Event. (https://en.wikipedia.org/wiki/Tunguska_Event)
+
+Additional Trivia:
+Venus rotates slower than it orbits the Sun. (https://en.wikipedia.org/wiki/Venus)
 END:VEVENT
 END:VCALENDAR
