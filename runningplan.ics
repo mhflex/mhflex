@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:b288c2f6-4697-46c7-8ac0-54cd2508dad1
+DTSTAMP:20250508T200759Z
+DTSTART;VALUE=DATE:20250509
+SUMMARY:Easy Intro Run-Walk [R001]
+DESCRIPTION:Target Distance: 2 km\nRun-Walk Ratio: 1 min run / 2 min walk (repeat ~6x)\nTarget Heart Rate: Under 150 bpm\nEffort Level: Very easy\nNotes: Go by feel. You should feel like you could do more when you're done.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
